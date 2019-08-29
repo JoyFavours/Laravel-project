@@ -1,0 +1,28 @@
+.navbar-dark .navbar-nav .nav-link{
+    color: #ffe817 !important;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    font-size: 1.3em;
+}
+a.btn{
+    font-size: 1.2em;
+}
+.notifications{
+    position: fixed;
+    max-width: 300px;
+    right: 10px;
+    bottom: 10vh;
+    background-color: #dee;
+    padding: .8em;
+}
+.notifications table{
+    width: 100%;
+}
+.notifications table td:first-child{
+    width: 90%;
+}
+.notifications .btn{
+    padding: 0.5em 1em;
+    border-radius: 50%;
+    background-color: transparent;
+}
